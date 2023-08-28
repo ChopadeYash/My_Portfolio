@@ -1,4 +1,4 @@
-# Your Name's Portfolio Website
+# Yash Chopade's Portfolio Website
 
 ![Website Screenshot](screenshot\1.Home.png)
 
