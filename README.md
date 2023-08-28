@@ -40,4 +40,4 @@ If applicable, provide instructions on how someone can locally clone or run your
 
 
 ```bash
-git clone https://github.com/yourusername/your-portfolio.git
+git clone https://github.com/ChopadeYash/My_Portfolio.git
